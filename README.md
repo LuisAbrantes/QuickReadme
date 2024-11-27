@@ -20,12 +20,12 @@ Follow the interactive prompts to input your project’s details. Once completed
 
 # Contributing
 
-Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
-	1.	Fork the project
-	2.	Create your feature branch (git checkout -b feature/AmazingFeature)
-	3.	Commit your changes (git commit -m 'Add some AmazingFeature')
-	4.	Push to the branch (git push origin feature/AmazingFeature)
-	5.	Open a pull request
+Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request. <br> 
+	1.	Fork the project <br>  
+	2.	Create your feature branch (git checkout -b feature/AmazingFeature) <br> 
+	3.	Commit your changes (git commit -m 'Add some AmazingFeature') <br> 
+	4.	Push to the branch (git push origin feature/AmazingFeature) <br> 
+	5.	Open a pull request <br> 
 
 Please make sure to update tests as appropriate.
 
