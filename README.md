@@ -6,9 +6,9 @@ A command-line tool to quickly generate README.md files.
 
 Clone the repository and install locally:
 
-git clone https://github.com/LuisAbrantes/quickreadme.git
-cd quickreadme
-pip install -e .
+git clone https://github.com/LuisAbrantes/quickreadme.git <br> 
+cd quickreadme <br> 
+pip install -e . <br> 
 
 # Usage
 
